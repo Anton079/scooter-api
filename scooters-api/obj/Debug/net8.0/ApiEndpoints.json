@@ -1,0 +1,214 @@
+[
+  {
+    "ContainingType": "scooter_api.Scooters.ScooterController.ScooterController",
+    "Method": "AddScooterAsync",
+    "RelativePath": "api/v1/Scooter/addScooter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "scooterReq",
+        "Type": "scooter_api.Scooters.Dtos.AddScooterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "scooter_api.Scooters.Dtos.ScooterResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "scooter_api.Scooters.ScooterController.ScooterController",
+    "Method": "GetScootersAsync",
+    "RelativePath": "api/v1/Scooter/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[scooter_api.Scooters.Dtos.ScooterResponse, scooters-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "scooter_api.Scooters.ScooterController.ScooterController",
+    "Method": "DeleteScooter",
+    "RelativePath": "api/v1/Scooter/deleteScooter",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "scooter_api.Scooters.Dtos.ScooterResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "scooter_api.Scooters.ScooterController.ScooterController",
+    "Method": "GetMinHorsePower",
+    "RelativePath": "api/v1/Scooter/getMinHP",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "minHp",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[scooter_api.Scooters.Dtos.ScooterResponse, scooters-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "scooter_api.Scooters.ScooterController.ScooterController",
+    "Method": "GetMinMaxSpeed",
+    "RelativePath": "api/v1/Scooter/getMinMaxSpeed",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "minSpeed",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "maxSpeed",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[scooter_api.Scooters.Dtos.ScooterResponse, scooters-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "scooter_api.Scooters.ScooterController.ScooterController",
+    "Method": "GetScootersByMinSpeed",
+    "RelativePath": "api/v1/Scooter/getMinSpeed/{minSpeed}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "minSpeed",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[scooter_api.Scooters.Dtos.ScooterResponse, scooters-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "scooter_api.Scooters.ScooterController.ScooterController",
+    "Method": "GetScootersByBrand",
+    "RelativePath": "api/v1/Scooter/getScootersByBrand/{brand}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "brand",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[scooter_api.Scooters.Dtos.ScooterResponse, scooters-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "scooter_api.Scooters.ScooterController.ScooterController",
+    "Method": "UpdateScooter",
+    "RelativePath": "api/v1/Scooter/updateScooter",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "scooterReq",
+        "Type": "scooter_api.Scooters.Dtos.EditScooterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "scooter_api.Scooters.Dtos.ScooterResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

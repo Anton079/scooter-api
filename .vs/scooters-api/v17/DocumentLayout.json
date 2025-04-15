@@ -1,0 +1,565 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mycode\\asp.net\\scooters-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\scootercontroller\\scootercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\scootercontroller\\scootercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\service\\iscootercommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\service\\iscootercommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\service\\iscooterqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\service\\iscooterqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\service\\scootercommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\service\\scootercommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\service\\scooterqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\service\\scooterqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\system\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\system\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\dtos\\scooterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\dtos\\scooterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\scooternotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\scooternotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\mappers\\scootermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\mappers\\scootermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\models\\scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\models\\scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\repository\\iscooterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\repository\\iscooterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\repository\\scooterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\repository\\scooterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\dtos\\editscooterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\dtos\\editscooterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\dtos\\addscooterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\dtos\\addscooterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\nullhorsepowerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\nullhorsepowerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\modeltypeexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\modeltypeexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\maxspeedexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\maxspeedexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\idscooternotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\idscooternotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\idexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\idexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\horsepowerexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\horsepowerexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\brandexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\brandexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\scooterexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\scooterexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\rangeexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\rangeexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\nullspeedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\nullspeedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\nullscooterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\nullscooterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\nullrangeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\nullrangeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\nullmodeltypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\nullmodeltypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\nullbrandexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\nullbrandexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters\\exceptions\\idtolowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters\\exceptions\\idtolowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|c:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10D07536-AE84-4642-AD21-820C70DBF727}|scooters-api\\scooters-api.csproj|solutionrelative:scooters-api\\scooters-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScooterResponse.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Dtos\\ScooterResponse.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Dtos\\ScooterResponse.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Dtos\\ScooterResponse.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Dtos\\ScooterResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:47:16.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSchema.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Data\\Migrations\\CreateSchema.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Data\\Migrations\\CreateSchema.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Data\\Migrations\\CreateSchema.cs",
+              "RelativeToolTip": "scooters-api\\Data\\Migrations\\CreateSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:46:55.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Data\\Migrations\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Data\\Migrations\\AppDbContext.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Data\\Migrations\\AppDbContext.cs",
+              "RelativeToolTip": "scooters-api\\Data\\Migrations\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:10:25.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\System\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "scooters-api\\System\\ExceptionMessages.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\System\\ExceptionMessages.cs",
+              "RelativeToolTip": "scooters-api\\System\\ExceptionMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:42:37.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Program.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Program.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Program.cs",
+              "RelativeToolTip": "scooters-api\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:08:06.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\appsettings.json",
+              "RelativeDocumentMoniker": "scooters-api\\appsettings.json",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\appsettings.json",
+              "RelativeToolTip": "scooters-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T10:10:05.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScooterRepository.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Repository\\ScooterRepository.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Repository\\ScooterRepository.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Repository\\ScooterRepository.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Repository\\ScooterRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAADwvzMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:47:02.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScooterQueryService.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Service\\ScooterQueryService.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Service\\ScooterQueryService.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Service\\ScooterQueryService.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Service\\ScooterQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:46:58.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScooterCommandService.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Service\\ScooterCommandService.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Service\\ScooterCommandService.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Service\\ScooterCommandService.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Service\\ScooterCommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:46:59.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IScooterQueryService.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Service\\IScooterQueryService.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Service\\IScooterQueryService.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Service\\IScooterQueryService.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Service\\IScooterQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:46:59.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IScooterCommandService.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Service\\IScooterCommandService.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Service\\IScooterCommandService.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Service\\IScooterCommandService.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Service\\IScooterCommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:47:00.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScooterController.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\ScooterController\\ScooterController.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\ScooterController\\ScooterController.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\ScooterController\\ScooterController.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\ScooterController\\ScooterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:47:01.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScooterNotFoundException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\ScooterNotFoundException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\ScooterNotFoundException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\ScooterNotFoundException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\ScooterNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:58:42.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScooterMappingProfile.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Mappers\\ScooterMappingProfile.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Mappers\\ScooterMappingProfile.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Mappers\\ScooterMappingProfile.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Mappers\\ScooterMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:47:04.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Scooter.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Models\\Scooter.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Models\\Scooter.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Models\\Scooter.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Models\\Scooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:47:03.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IScooterRepository.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Repository\\IScooterRepository.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Repository\\IScooterRepository.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Repository\\IScooterRepository.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Repository\\IScooterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:47:02.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditScooterRequest.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Dtos\\EditScooterRequest.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Dtos\\EditScooterRequest.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Dtos\\EditScooterRequest.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Dtos\\EditScooterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:47:15.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddScooterRequest.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Dtos\\AddScooterRequest.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Dtos\\AddScooterRequest.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Dtos\\AddScooterRequest.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Dtos\\AddScooterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:47:14.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NullHorsePowerException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\NullHorsePowerException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\NullHorsePowerException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\NullHorsePowerException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\NullHorsePowerException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:01:11.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ModeltypeExistException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\ModeltypeExistException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\ModeltypeExistException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\ModeltypeExistException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\ModeltypeExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:01:19.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MaxSpeedExistException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\MaxSpeedExistException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\MaxSpeedExistException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\MaxSpeedExistException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\MaxSpeedExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:01:23.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IdScooterNotFound.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\IdScooterNotFound.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\IdScooterNotFound.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\IdScooterNotFound.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\IdScooterNotFound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:01:32.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IdExistException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\IdExistException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\IdExistException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\IdExistException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\IdExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:01:37.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HorsePowerExistException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\HorsePowerExistException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\HorsePowerExistException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\HorsePowerExistException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\HorsePowerExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:01:42.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BrandExistException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\BrandExistException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\BrandExistException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\BrandExistException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\BrandExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:01:46.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ScooterExistException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\ScooterExistException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\ScooterExistException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\ScooterExistException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\ScooterExistException.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:59:27.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RangeExistException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\RangeExistException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\RangeExistException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\RangeExistException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\RangeExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:59:38.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NullSpeedException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\NullSpeedException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\NullSpeedException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\NullSpeedException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\NullSpeedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:59:43.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NullScooterException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\NullScooterException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\NullScooterException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\NullScooterException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\NullScooterException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:59:47.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NullRangeException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\NullRangeException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\NullRangeException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\NullRangeException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\NullRangeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:01:03.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NullModelTypeException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\NullModelTypeException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\NullModelTypeException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\NullModelTypeException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\NullModelTypeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:01:07.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NullBrandException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\NullBrandException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\NullBrandException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\NullBrandException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\NullBrandException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:01:15.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IdToLowException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\IdToLowException.cs",
+              "RelativeDocumentMoniker": "scooters-api\\Scooters\\Exceptions\\IdToLowException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\Scooters\\Exceptions\\IdToLowException.cs",
+              "RelativeToolTip": "scooters-api\\Scooters\\Exceptions\\IdToLowException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:01:28.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "scooters-api.csproj",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters-api.csproj",
+              "RelativeDocumentMoniker": "scooters-api\\scooters-api.csproj",
+              "ToolTip": "C:\\mycode\\asp.net\\scooters-api\\scooters-api\\scooters-api.csproj",
+              "RelativeToolTip": "scooters-api\\scooters-api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T10:08:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

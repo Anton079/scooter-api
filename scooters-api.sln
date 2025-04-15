@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scooters-api", "scooters-api\scooters-api.csproj", "{10D07536-AE84-4642-AD21-820C70DBF727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D07536-AE84-4642-AD21-820C70DBF727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D07536-AE84-4642-AD21-820C70DBF727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D07536-AE84-4642-AD21-820C70DBF727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D07536-AE84-4642-AD21-820C70DBF727}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2700EFFC-C699-49A6-A539-7090C698FF64}
+	EndGlobalSection
+EndGlobal
