@@ -14,7 +14,7 @@ namespace scooters_api.Data.Migrations
 
         public override void Up()
         {
-            Create.Table("car")
+            Create.Table("scooter")
                 .WithColumn("id").AsInt32().PrimaryKey().Identity()
                 .WithColumn("brand").AsString(120).NotNullable()
                 .WithColumn("modelType").AsString(120).NotNullable()

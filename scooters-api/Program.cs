@@ -2,6 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using FluentMigrator.Runner;
 using scooters_api.Data.Migrations;
 using scooter_api.Scooters.Repository;
+using System.ComponentModel.Design;
+using scooter_api.Scooters.Service;
 
 public class Program
 {
@@ -28,6 +30,8 @@ public class Program
         new MySqlServerVersion(new Version(8, 0, 21))));
 
         builder.Services.AddScoped<IScooterRepository, ScooterRepository>();
+        builder.Services.AddScoped<IScooterCommandService, ScooterCommandService>();
+        builder.Services.AddScoped<IScooterQueryService, ScooterQueryService>();
 
         builder.Services.AddFluentMigratorCore()
             .ConfigureRunner(rb => rb.AddMySql5()
@@ -38,6 +42,7 @@ public class Program
         builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
         var app = builder.Build();
+
 
         if (app.Environment.IsDevelopment())
         {
@@ -62,7 +67,7 @@ public class Program
             }
             catch (Exception ex)
             {
-
+                Console.WriteLine(ex.Message);
                 Console.WriteLine("Erroare migrare");
 
             }

@@ -4,7 +4,7 @@ using scooter_api.Scooters.Repository;
 
 namespace scooter_api.Scooters.Service
 {
-    public class ScooterQueryService
+    public class ScooterQueryService:IScooterQueryService
     {
         private readonly IScooterRepository _repo;
         private readonly IMapper _mapper;

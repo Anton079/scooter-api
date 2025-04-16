@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("scooters-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c385b5abeef65ba9fe23d5484de7343f146d9b07")]
 [assembly: System.Reflection.AssemblyProductAttribute("scooters-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("scooters-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

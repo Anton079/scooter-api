@@ -1,8 +1,9 @@
 using AutoMapper;
+using Microsoft.EntityFrameworkCore;
 using scooter_api.Scooters.Dtos;
 using scooter_api.Scooters.Models;
 using scooters_api.Data.Migrations;
-using System.Data.Entity;
+
 
 namespace scooter_api.Scooters.Repository
 {
@@ -20,7 +21,10 @@ namespace scooter_api.Scooters.Repository
         public async Task<List<ScooterResponse>> GetScootersAsync()
         {
             var scooters = await _context.Scooter.ToListAsync();
-            return _mapper.Map<List<ScooterResponse>>(scooters);
+
+            var scootersResponse = scooters.Select(scooter => _mapper.Map<ScooterResponse>(scooter)).ToList();
+
+            return scootersResponse;
         }
 
         public async Task<ScooterResponse> CreateScooterAsync(AddScooterRequest req)

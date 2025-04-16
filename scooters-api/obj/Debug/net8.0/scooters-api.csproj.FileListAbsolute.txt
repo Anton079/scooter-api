@@ -97,3 +97,4 @@ C:\mycode\asp.net\scooters-api\scooters-api\obj\Debug\net8.0\refint\scooters-api
 C:\mycode\asp.net\scooters-api\scooters-api\obj\Debug\net8.0\scooters-api.pdb
 C:\mycode\asp.net\scooters-api\scooters-api\obj\Debug\net8.0\scooters-api.genruntimeconfig.cache
 C:\mycode\asp.net\scooters-api\scooters-api\obj\Debug\net8.0\ref\scooters-api.dll
+C:\mycode\asp.net\scooters-api\scooters-api\obj\Debug\net8.0\scooters-api.sourcelink.json
